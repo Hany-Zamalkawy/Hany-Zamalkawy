@@ -43,6 +43,16 @@ I am a **Software & Data Engineer** based in Alexandria, Egypt, with hands-on ex
 
 ---
 
+## Recent Data Projects
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **Home Credit Default Risk** | Reproducible machine learning pipeline for the GCI competition, including validation and submission generation. | [Repo](https://github.com/Hany-Zamalkawy/GCI-world-2026-september-home-credit-risk-competition) |
+| **Home Credit Improved Submission** | Competition-ready prediction file with 61,500 scored test records. | [Repo](https://github.com/Hany-Zamalkawy/home-credit-risk-improved-submission) |
+| **Telecom Customer Churn Final Assignment** | Churn analysis, baseline risk model, and a measured customer-retention pilot proposal. | [Repo](https://github.com/Hany-Zamalkawy/GCI-World-2026-September-Home-Final-Assignment) |
+
+---
+
 ## Tech Stack
 
 **Data Engineering & Databases**
